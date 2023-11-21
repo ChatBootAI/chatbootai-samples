@@ -1,0 +1,17 @@
+# Compiled class file
+target/
+*.class
+
+# Local environment
+.env
+
+# Plugin directory
+/.quarkus/cli/plugins/
+
+# Quinoa
+node_modules/
+build/
+dist/
+.quinoa/
+dist-ssr
+*.local
